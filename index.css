@@ -1,0 +1,85 @@
+*{
+    
+    background-color: #010668;
+    
+    
+}
+.navbar{
+    background-image: url(/images/backgroundDark03L.avif);
+    background-size:cover;
+    background-repeat: no-repeat;
+    position:sticky;
+
+   
+}
+.navbar ul li a{
+    color: white;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+}
+.search{
+    width:500px;
+    height:70px;
+    padding-top: 25px;
+    margin-left: 400px;
+}
+.btn{
+    color:white;
+    border-color: white;
+    margin-left: 10px;
+    width:100px;
+}
+body{
+    background-color: #010668;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+#Parent{
+    display:flex;
+    flex-wrap: wrap;
+    background-color: black;
+   
+   
+    
+}  
+.insta{
+    
+    padding:10px;
+    color:white;
+    background-color: black;
+    margin-bottom: 10px;
+    
+}  
+
+.icons{
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+.footer-image{
+    width:2100px;
+    bottom: 0%;
+    margin-top: 100px;
+    
+    
+}
+.foot{
+    background-color: black;
+
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-image: url('/images/body.jpg');
+    background-size: cover;
+}
